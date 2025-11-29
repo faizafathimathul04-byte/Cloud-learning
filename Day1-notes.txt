@@ -1,0 +1,5 @@
+Today I learned:
+- What is cloud
+- What is AWS
+- What is S3
+- What is EC2
